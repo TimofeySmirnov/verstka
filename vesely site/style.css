@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-menu {
+    
+    margin: 10px 0;
+    height: 40px;
+    font-size: 16px;
+    line-height: 41px;
+}
+
+.main-menu nav{
+    float: left;
+}
+
+.main-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.main-menu ul li a {
+    text-decoration: none;
+    text-transform:uppercase;
+    color: #000;
+}
+
+.main-menu p {
+    float:left;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+.logo {
+    background-image: url("img/fon_logo.jpg");
+    height: 500px;
+}
+
+.t {
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+    font-size: 30px;
+}
+
+.p {
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 30px;
+}
+
+.po  {
+background-image: url("img/esli_za_45.jpg");
+height: 1080px;
+line-height: 1920px;
+opacity: 0.25;
+}
